@@ -1,1 +1,0 @@
-# tap the screen to see the gramaphone
